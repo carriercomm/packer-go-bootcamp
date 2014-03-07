@@ -107,7 +107,7 @@
   ],
   "post-processors": [
     {
-      "output": "go-bootcamp-{{.Provider}.box",
+      "output": "go-bootcamp-{{.Provider}}.box",
       "type": "vagrant"
     }
   ],
